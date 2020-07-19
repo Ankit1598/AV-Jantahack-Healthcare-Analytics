@@ -14,6 +14,14 @@ Private Leaderboard Rank:
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+## Data after Merging and Feature Engineering:
+<img src="images/Data1.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="images/Data2.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ## Description of Approach/Feature Engineering:
 1. Created trainind dataset with outcome column merged with all the camp details.
 2. Merged new train dataset and patient dataset to form new train and test dataset
@@ -25,6 +33,9 @@ Private Leaderboard Rank:
 2. pandas and numpy libraries for methodology
 3. sklearn's preprocessing and metrics for evaluating classification models preformance
 4. xgboost for gradient boosting
+
+## Score
+The score obtained using this solution is **0.8398043541**
 
 ## Credits:
 This hackathon is repeated after 4 years... also solutions were provided by the previous participants which I referred. \
