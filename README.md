@@ -2,7 +2,7 @@
 
 Public Leaderboard Rank: 12
  
-Private Leaderboard Rank: 
+Private Leaderboard Rank: 4
 
 ## Problem Statement
 <img src="images/Problem_statement.jpg"
@@ -30,7 +30,7 @@ Private Leaderboard Rank:
 
 ## Tools used
 1. Python
-2. pandas and numpy libraries for methodology
+2. pandas and numpy libraries for data manipulation
 3. sklearn's preprocessing and metrics for evaluating classification models preformance
 4. xgboost for gradient boosting
 
@@ -42,4 +42,4 @@ This hackathon is repeated after 4 years... also solutions were provided by the 
 [Knocktober 2016](https://datahack.analyticsvidhya.com/contest/knocktober-2016/)
 
 ## Competition Result
-[Rank](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard): 12th on public LB and _ on private LB
+[Rank](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard): 12th on public LB and 4th on private LB
