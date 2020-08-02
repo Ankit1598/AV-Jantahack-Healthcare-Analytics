@@ -5,25 +5,25 @@ Public Leaderboard Rank: 12
 Private Leaderboard Rank: 4
 
 ## Problem Statement
-<img src="images/Problem_statement.jpg"
+<img src="assets/Problem_statement.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 ## Data Description at a Glance:
-<img src="images/Data_description.jpg"
+<img src="assets/Data_description.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 ## Data after Merging and Feature Engineering:
-<img src="images/Data1.jpg"
+<img src="assets/Data1.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="images/Data2.jpg"
+<img src="assets/Data2.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 ## Description of Approach/Feature Engineering:
-1. Created trainind dataset with outcome column merged with all the camp details.
+1. Created training dataset with outcome column merged with all the camp details.
 2. Merged new train dataset and patient dataset to form new train and test dataset
 3. Created the train, test dataset with date difference features and also applied encoding on categorical data
 4. Created Frequency related features
